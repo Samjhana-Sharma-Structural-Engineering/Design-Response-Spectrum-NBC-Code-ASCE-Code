@@ -1,6 +1,6 @@
-**NBC Code:
-**
-Clause: 4.1.1 Elastic Site Spectra:
+**NBC Code:**
+
+**Clause: 4.1.1 Elastic Site Spectra:**
 
 C(T) = Ch (T)ZI 
 
